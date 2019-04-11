@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.001toddlercam.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\s011937h.STUDENT\\Documents\\GitHub\\ToddlerCam\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "001ToddlerCam [Testing]"
+        }
+      }
+    }
+  ]
+}
